@@ -1,4 +1,3 @@
-```markdown
 # TP Turtle Regulation — SALAMERO DAMIEN
 
 Ce dépôt contient un TP de régulation pour la tortue de **turtlesim** sous ROS 2 (Jazzy Jalisco, Ubuntu 24.04).  
@@ -43,6 +42,7 @@ colcon build
 
 # Source l’environnement (toujours après build)
 source install/setup.bash
+
 ```
 
 ---
