@@ -1,0 +1,7 @@
+# Requête : nouvelles coordonnées du waypoint
+float32 x
+float32 y
+---
+# Réponse : succès ou échec de la modification
+bool res
+
